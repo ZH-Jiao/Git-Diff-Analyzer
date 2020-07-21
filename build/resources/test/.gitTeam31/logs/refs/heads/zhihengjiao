@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 f23cb91a1f6322c921bd60793be64150faf67aaf Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586875945 -0400	fetch origin zhihengjiao:zhihengjiao: storing head
+f23cb91a1f6322c921bd60793be64150faf67aaf 3efa41f5d5fc635e1e6459f425346888f5b615af Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586875974 -0400	rebase finished: refs/heads/zhihengjiao onto 3efa41f5d5fc635e1e6459f425346888f5b615af
+3efa41f5d5fc635e1e6459f425346888f5b615af 6d2ec2ba84819e28c7f31cc432821ca95a88c0be Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586891179 -0400	commit: Added TrelbyPlugin, and a .trelby sample
+6d2ec2ba84819e28c7f31cc432821ca95a88c0be 7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893943 -0400	commit: Adding StickChartPlugin
+7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47 4d746030f4b360717139f60903b57b679029c9f7 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893989 -0400	rebase finished: refs/heads/zhihengjiao onto 4d746030f4b360717139f60903b57b679029c9f7
+4d746030f4b360717139f60903b57b679029c9f7 7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586897999 -0400	commit: Finished the StickChartPlugin
+7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 d27e0970cdda6b393b7bb0850db6e9a3856e110c Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902001 -0400	commit: Finished plugin

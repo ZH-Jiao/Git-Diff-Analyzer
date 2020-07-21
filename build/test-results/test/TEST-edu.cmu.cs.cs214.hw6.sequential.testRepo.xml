@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cs.cs214.hw6.sequential.testRepo" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-01T02:33:57" hostname="ZhihengdeMBP.fios-router.home" time="32.315">
+  <properties/>
+  <testcase name="testRepoSequential" classname="edu.cmu.cs.cs214.hw6.sequential.testRepo" time="9.364"/>
+  <testcase name="testRepoParallel" classname="edu.cmu.cs.cs214.hw6.sequential.testRepo" time="2.654"/>
+  <testcase name="benchmarkRepo" classname="edu.cmu.cs.cs214.hw6.sequential.testRepo" time="20.296"/>
+  <system-out><![CDATA[Number of revisions: 145
+Number of revisions: 145
+Number of revisions: 145
+Number of revisions: 145
+Sequential Repo Operation work: 8685 core milliseconds
+Number of revisions: 145
+Parallel Repo Operation work: 2486 core milliseconds
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

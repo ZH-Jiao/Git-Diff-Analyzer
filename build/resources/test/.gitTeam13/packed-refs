@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+ad9f8f613697cb69088083940ad02699960a2e3f refs/remotes/origin/MAES-BRANCH
+7de9009e17dd18bd30e52b023da6300f7eb340fc refs/remotes/origin/andy-branch
+6a40d97f896892d8b1b4187414bfc32c78321557 refs/remotes/origin/master
+0c86e9024cc57767d1801a9414da4dc9b0d1f3e7 refs/remotes/origin/wills-branch

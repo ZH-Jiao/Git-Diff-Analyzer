@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cs.cs214.hw6.sequential.testSimilarity" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-01T02:33:32" hostname="ZhihengdeMBP.fios-router.home" time="24.784">
+  <properties/>
+  <testcase name="testSimSequential" classname="edu.cmu.cs.cs214.hw6.sequential.testSimilarity" time="9.872"/>
+  <testcase name="benchmarkSimilarity" classname="edu.cmu.cs.cs214.hw6.sequential.testSimilarity" time="5.618"/>
+  <testcase name="testSimParallel" classname="edu.cmu.cs.cs214.hw6.sequential.testSimilarity" time="9.294"/>
+  <system-out><![CDATA[Number of revisions: 145
+Number of revisions: 20
+[
+Result:
+child_hash_1: 3efa41f5d5fc635e1e6459f425346888f5b615af, parent_hash_1: d2ebf03e9d1dedd35608a62759598cdd58516519; child_hash_2: fbf5cd20e4e70aef9d9ffa5d6136f30ff587e97f, parent_hash_2: 94931d30db73f6d4cc87b69fa6f30f253dcf82de; similarity: 0.9286868782957147, 
+Result:
+child_hash_1: 7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47, parent_hash_1: 6d2ec2ba84819e28c7f31cc432821ca95a88c0be; child_hash_2: 68c627499562176c207769fcbd39a7bc9d49f54f, parent_hash_2: 2802ac89b5b2ab0f7a1bd489d582929664c2b2cb; similarity: 0.8437016061670278, 
+Result:
+child_hash_1: 1ab19f2afbfcd3a789aee980b7cca1877634b31e, parent_hash_1: 41780dd4bcfd594eb7d82d6ef25514782408a4a2; child_hash_2: 9edf0dfdd15ab2a75a402f052fd1b12155e6219a, parent_hash_2: 8a4e4c815d2ab7a23e4cb7abec99a06463d00b74; similarity: 0.7905362871881474]
+Number of revisions: 145
+Number of revisions: 20
+[
+Result:
+child_hash_1: 3efa41f5d5fc635e1e6459f425346888f5b615af, parent_hash_1: d2ebf03e9d1dedd35608a62759598cdd58516519; child_hash_2: fbf5cd20e4e70aef9d9ffa5d6136f30ff587e97f, parent_hash_2: 94931d30db73f6d4cc87b69fa6f30f253dcf82de; similarity: 0.9286868782957147, 
+Result:
+child_hash_1: 7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47, parent_hash_1: 6d2ec2ba84819e28c7f31cc432821ca95a88c0be; child_hash_2: 68c627499562176c207769fcbd39a7bc9d49f54f, parent_hash_2: 2802ac89b5b2ab0f7a1bd489d582929664c2b2cb; similarity: 0.8437016061670278, 
+Result:
+child_hash_1: 1ab19f2afbfcd3a789aee980b7cca1877634b31e, parent_hash_1: 41780dd4bcfd594eb7d82d6ef25514782408a4a2; child_hash_2: 9edf0dfdd15ab2a75a402f052fd1b12155e6219a, parent_hash_2: 8a4e4c815d2ab7a23e4cb7abec99a06463d00b74; similarity: 0.7905362871881474]
+Sequential Similarity Operation work: 2854 core milliseconds
+Number of revisions: 145
+Number of revisions: 20
+[
+Result:
+child_hash_1: 3efa41f5d5fc635e1e6459f425346888f5b615af, parent_hash_1: d2ebf03e9d1dedd35608a62759598cdd58516519; child_hash_2: fbf5cd20e4e70aef9d9ffa5d6136f30ff587e97f, parent_hash_2: 94931d30db73f6d4cc87b69fa6f30f253dcf82de; similarity: 0.9286868782957147, 
+Result:
+child_hash_1: 7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47, parent_hash_1: 6d2ec2ba84819e28c7f31cc432821ca95a88c0be; child_hash_2: 68c627499562176c207769fcbd39a7bc9d49f54f, parent_hash_2: 2802ac89b5b2ab0f7a1bd489d582929664c2b2cb; similarity: 0.8437016061670278, 
+Result:
+child_hash_1: 1ab19f2afbfcd3a789aee980b7cca1877634b31e, parent_hash_1: 41780dd4bcfd594eb7d82d6ef25514782408a4a2; child_hash_2: 9edf0dfdd15ab2a75a402f052fd1b12155e6219a, parent_hash_2: 8a4e4c815d2ab7a23e4cb7abec99a06463d00b74; similarity: 0.7905362871881474]
+Parallel Similarity Operation work: 2758 core milliseconds
+Number of revisions: 145
+Number of revisions: 20
+[
+Result:
+child_hash_1: 3efa41f5d5fc635e1e6459f425346888f5b615af, parent_hash_1: d2ebf03e9d1dedd35608a62759598cdd58516519; child_hash_2: fbf5cd20e4e70aef9d9ffa5d6136f30ff587e97f, parent_hash_2: 94931d30db73f6d4cc87b69fa6f30f253dcf82de; similarity: 0.9286868782957147, 
+Result:
+child_hash_1: 7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47, parent_hash_1: 6d2ec2ba84819e28c7f31cc432821ca95a88c0be; child_hash_2: 68c627499562176c207769fcbd39a7bc9d49f54f, parent_hash_2: 2802ac89b5b2ab0f7a1bd489d582929664c2b2cb; similarity: 0.8437016061670278, 
+Result:
+child_hash_1: 1ab19f2afbfcd3a789aee980b7cca1877634b31e, parent_hash_1: 41780dd4bcfd594eb7d82d6ef25514782408a4a2; child_hash_2: 9edf0dfdd15ab2a75a402f052fd1b12155e6219a, parent_hash_2: 8a4e4c815d2ab7a23e4cb7abec99a06463d00b74; similarity: 0.7905362871881474]
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

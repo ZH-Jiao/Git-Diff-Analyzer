@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+dfb63d12e3c7b33703fda207cc3240f79698fbec refs/remotes/origin/bozhang
+abceb1e6782b50f6b06277f48c7fc41618b78969 refs/remotes/origin/develop
+3efa41f5d5fc635e1e6459f425346888f5b615af refs/remotes/origin/master
+979692158a4f6fad4e8f94ab4cf22579acf513d0 refs/remotes/origin/shangliu
+f23cb91a1f6322c921bd60793be64150faf67aaf refs/remotes/origin/zhihengjiao

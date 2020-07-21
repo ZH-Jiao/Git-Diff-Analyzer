@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 3efa41f5d5fc635e1e6459f425346888f5b615af Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586875836 -0400	clone: from https://github.com/CMU-17-214/Team31.git
+3efa41f5d5fc635e1e6459f425346888f5b615af f23cb91a1f6322c921bd60793be64150faf67aaf Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586875958 -0400	checkout: moving from master to zhihengjiao
+f23cb91a1f6322c921bd60793be64150faf67aaf 3efa41f5d5fc635e1e6459f425346888f5b615af Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586875974 -0400	rebase: checkout master
+3efa41f5d5fc635e1e6459f425346888f5b615af 3efa41f5d5fc635e1e6459f425346888f5b615af Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586875974 -0400	rebase finished: refs/heads/zhihengjiao onto 3efa41f5d5fc635e1e6459f425346888f5b615af
+3efa41f5d5fc635e1e6459f425346888f5b615af 6d2ec2ba84819e28c7f31cc432821ca95a88c0be Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586891179 -0400	commit: Added TrelbyPlugin, and a .trelby sample
+6d2ec2ba84819e28c7f31cc432821ca95a88c0be 7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893943 -0400	commit: Adding StickChartPlugin
+7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47 abceb1e6782b50f6b06277f48c7fc41618b78969 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893957 -0400	checkout: moving from zhihengjiao to develop
+abceb1e6782b50f6b06277f48c7fc41618b78969 4d746030f4b360717139f60903b57b679029c9f7 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893964 -0400	merge zhihengjiao: Merge made by the 'recursive' strategy.
+4d746030f4b360717139f60903b57b679029c9f7 7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893984 -0400	checkout: moving from develop to zhihengjiao
+7ae5a91190a8f509bf5cc27d1bc3bcf92ff97a47 4d746030f4b360717139f60903b57b679029c9f7 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893989 -0400	rebase: checkout develop
+4d746030f4b360717139f60903b57b679029c9f7 4d746030f4b360717139f60903b57b679029c9f7 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586893989 -0400	rebase finished: refs/heads/zhihengjiao onto 4d746030f4b360717139f60903b57b679029c9f7
+4d746030f4b360717139f60903b57b679029c9f7 7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586897999 -0400	commit: Finished the StickChartPlugin
+7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 4d746030f4b360717139f60903b57b679029c9f7 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586898009 -0400	checkout: moving from zhihengjiao to develop
+4d746030f4b360717139f60903b57b679029c9f7 7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586898025 -0400	checkout: moving from develop to zhihengjiao
+7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 4d746030f4b360717139f60903b57b679029c9f7 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586898032 -0400	checkout: moving from zhihengjiao to develop
+4d746030f4b360717139f60903b57b679029c9f7 7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586898035 -0400	merge zhihengjiao: Fast-forward
+7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 83b0082148aa7c7c787910d2fb56d52d45ca3e0e Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586901755 -0400	commit: Modified Stick plugin
+83b0082148aa7c7c787910d2fb56d52d45ca3e0e 933d00797c85ae8b048c0b88c77f0e605d5ad587 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586901808 -0400	commit: Added report zhihengj
+933d00797c85ae8b048c0b88c77f0e605d5ad587 3efa41f5d5fc635e1e6459f425346888f5b615af Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586901836 -0400	checkout: moving from develop to master
+3efa41f5d5fc635e1e6459f425346888f5b615af 933d00797c85ae8b048c0b88c77f0e605d5ad587 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586901842 -0400	merge develop: Fast-forward
+933d00797c85ae8b048c0b88c77f0e605d5ad587 7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586901937 -0400	checkout: moving from master to zhihengjiao
+7d4650d5a8b81ee6e9fc04260c3dbbc990b7c055 d27e0970cdda6b393b7bb0850db6e9a3856e110c Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902001 -0400	commit: Finished plugin
+d27e0970cdda6b393b7bb0850db6e9a3856e110c 933d00797c85ae8b048c0b88c77f0e605d5ad587 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902034 -0400	checkout: moving from zhihengjiao to master
+933d00797c85ae8b048c0b88c77f0e605d5ad587 d27e0970cdda6b393b7bb0850db6e9a3856e110c Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902072 -0400	checkout: moving from master to zhihengjiao
+d27e0970cdda6b393b7bb0850db6e9a3856e110c 933d00797c85ae8b048c0b88c77f0e605d5ad587 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902087 -0400	checkout: moving from zhihengjiao to develop
+933d00797c85ae8b048c0b88c77f0e605d5ad587 afdcbb726d094f5b7b328093fab51bb87c5aa144 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902098 -0400	merge zhihengjiao: Merge made by the 'recursive' strategy.
+afdcbb726d094f5b7b328093fab51bb87c5aa144 933d00797c85ae8b048c0b88c77f0e605d5ad587 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902114 -0400	checkout: moving from develop to master
+933d00797c85ae8b048c0b88c77f0e605d5ad587 afdcbb726d094f5b7b328093fab51bb87c5aa144 Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902121 -0400	merge develop: Fast-forward
+afdcbb726d094f5b7b328093fab51bb87c5aa144 4014044aac17435d16c6aaa2c67e1e70deafad3f Zhiheng Jiao <zhihengj@andrew.cmu.edu> 1586902239 -0400	commit: Finish hw5c
